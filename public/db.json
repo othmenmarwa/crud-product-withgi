@@ -1,0 +1,22 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "nom": "pc",
+      "prix": 1500,
+      "quantite":5
+    },
+    {
+      "id": 2,
+      "nom": "souris",
+      "prix": 15,
+      "quantite":15
+    },
+    {
+      "id": 3,
+      "nom": "climatiseur",
+      "prix": 1800,
+      "quantite":100  
+    }
+  ]
+}

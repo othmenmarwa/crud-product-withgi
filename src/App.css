@@ -1,0 +1,18 @@
+.table{
+  border: 400px;
+  size: 0ch;
+}
+.bg-dark {
+  background-color: black;
+  color: white;
+}
+.h2,h1{
+  text-align: center;
+}
+.btn{
+  background-color:aqua;
+}
+.dicbtn{
+  float: left;
+}
+
